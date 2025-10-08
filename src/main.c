@@ -12,12 +12,10 @@ int main(void)
 	printf("AAAAAAAAAAAAAA");
 	printf("BBBBBBBBBBBBBB");
 	printf("CCCCCCCCCCCCCC");
-<<<<<<< HEAD
 	printf("dddddddddddddd");
 	printf("eeeeeeeeeeeeee");
-=======
 	printf("DDDDDDDDDDDDDD");
->>>>>>> ae71bbe (Add func 1)
+	printf("ffffffffffffff");
 
 	return 0;
 }
