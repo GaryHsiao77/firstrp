@@ -8,9 +8,10 @@
 
 int main(void)
 {
-	printf("Hello World! %s\n", CONFIG_BOARD_TARGET);
+	printf("=== Hello World! ===\n");
 	printf("AAAAAAAAAAAAAA");
 	printf("BBBBBBBBBBBBBB");
+	printf("CCCCCCCCCCCCCC");
 
 	return 0;
 }
